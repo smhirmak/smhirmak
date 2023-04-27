@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Semih</h1>
+<h1 align="left">Hey 👋 I'm Muhammed Semih Irmak</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>✉️ You can contact me at <a>smhirmak@hotmail.com</a><br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🌍 I live in Turkey<br>📚 I develop projects using ReactJS and TypeScript<br>✉️ You can contact me at smhirmak@hotmail.com</p>
 
 ###
 

@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌍 I live in Turkey<br>📚 I develop projects using ReactJS and TypeScript<br>✉️ You can contact me at smhirmak@hotmail.com<br>🚀 I am currently developing the Shopping Cart App and Weather App</p>
+<p align="left">🌍 I live in Turkey<br>📚 I develop projects using ReactJS and TypeScript<br>✉️ You can contact me at smhirmak@hotmail.com<br>🚀 I am currently developing the Portfolio</p>
 
 ###
 

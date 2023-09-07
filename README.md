@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.semihirmak.com/](https://www.semihirmak.com/)
 
-- 📝 I develop projects using **ReactJS and TypeScript**
+- 📝 I develop projects using **React and TypeScript**
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/smhirmak/msi-portfolio)
 

@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Semih</h1>
-<h2 align="center">I'm a Frontend Developer</h2>
+<h2 align="start">I'm a Frontend Developer</h2>
 
 - 👨‍💻 All of my projects are available at [https://www.semihirmak.com/](https://www.semihirmak.com/)
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/smhirmak/msi-portfolio)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** and **Express.js**
 
 - 📫 You can contact me at **smhirmak@hotmail.com**
 

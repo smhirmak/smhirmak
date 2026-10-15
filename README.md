@@ -1,19 +1,57 @@
-<h1 align="start">Hi 👋 I'm Semih</h1>
-<h2 align="start">I'm a Frontend Developer</h2>
+# Hi 👋 I'm Semih
 
-- 👨‍💻 All of my projects are available at [https://www.semihirmak.com/](https://www.semihirmak.com/)
+### Frontend-Focused Software Engineer · React, Next.js, TypeScript, .NET, C# & Node.js
 
-- 📝 I develop projects using **React and TypeScript**
+I build accessible, real-time web applications in FinTech and RegTech.
+My work connects frontend engineering with backend development,
+automated testing and production delivery.
 
-- 🌱 I’m currently learning **Node.js** and **Express.js**
+- 💼 Frontend Developer at **TRA Bilişim**
+- ⚡ Building trading interfaces, customer onboarding flows and CRM applications
+- 🛠️ Developing full-stack applications with **ASP.NET Core, Node.js and NestJS**
+- 🧩 Creating reusable UI libraries, developer tools and application templates
+- 🚀 Maintaining **5+ CI/CD pipelines** and production delivery for **15+ applications**
+- 🎓 B.Sc. in Electrical and Electronics Engineering — **Sakarya University**
+- 📍 Based in **Sakarya, Türkiye**
 
-- 📫 You can contact me at **smhirmak@hotmail.com**
+### Selected Projects
 
+- **[TRA UI Kit](https://github.com/smhirmak/tra-ui-kit)**  
+  A React and TypeScript component library with 30+ components,
+  adopted across 5+ applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammed-semih-irmak-307890152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-semih-irmak-307890152/" height="30" width="40" /></a>
-</p>
+- **[TRA UI Base](https://github.com/smhirmak/tra-ui-base)**  
+  A Vite application template and Node.js/TypeScript CLI used
+  to bootstrap 10+ internal projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none !important"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration:none !important"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration:none"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+- **Report Issue Platform**  
+  Reusable React and ASP.NET Core packages for issue reporting,
+  screenshot annotation and diagnostics. Used across 6+ projects.  
+  [npm](https://www.npmjs.com/package/@tra-bilisim/report-issue)
+  · [NuGet](https://www.nuget.org/packages/ReportIssue.AspNetCore/)
+
+- **[Kairos Psychology & Child Development Platform](https://kairoscocukpsikoloji.com/)**  
+  A full-stack Next.js platform with appointment scheduling,
+  an admin CMS, role-based access and email workflows.
+  Built with PostgreSQL, Drizzle ORM and Supabase.
+
+### Technologies & Tools
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite |
+| UI | Tailwind CSS, shadcn/ui, Material UI, Accessibility |
+| State & Data | TanStack Query, Router, Table & Virtual, Zustand, Redux |
+| Forms & Localization | Formik, Yup, i18n |
+| Real-Time & APIs | WebSocket, SignalR, REST APIs, Axios, JWT |
+| Backend | C#, ASP.NET Core, Entity Framework Core, Node.js, NestJS |
+| Databases | PostgreSQL, SQL Server, Redis, Supabase, Drizzle ORM |
+| Testing | Vitest, Playwright, React Testing Library |
+| Delivery | Git, GitLab CI/CD, Docker, Docker Compose, Linux, IIS |
+| Observability | SonarQube, Sentry |
+
+### Connect with Me
+
+[Portfolio](https://www.semihirmak.com/)
+· [LinkedIn](https://www.linkedin.com/in/muhammed-semih-irmak)
+· [Email](mailto:smhirmak@hotmail.com)
